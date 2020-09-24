@@ -10,9 +10,16 @@ with open('intents', 'r') as f:
 # model.save_model("tvmodel.bin")
 
 model = ft.load_model('tvmodel.bin')
-res = model.predict("schalte auf ARD", k=3)
-print(res[1][0])
-for i,r in enumerate(res[0]):
-    index_ = int(r[r.rindex('_')+1:])
-    print(index_ - 1)
-    print(intents[index_ - 1], res[1][i])
+errors = []
+with open('MustHaveUtterances2.csv','r') as f:
+    for d in f.read().split("\n"):
+        if d != "" and 'Utterance' not in d:
+            splitted = d.split(",")
+            res = model.predict(splitted[0], k=1)
+            index_ = int(res[0][0][res[0][0].rindex('_') + 1:])
+            predicted_intent = intents[index_ - 1]
+            if predicted_intent != splitted[1]:
+                errors.append(d+","+predicted_intent)
+                # print(d,predicted_intent)
+
+print("\n".join(errors))

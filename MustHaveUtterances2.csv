@@ -1,0 +1,1110 @@
+Utterance,Intent
+Schließ Musik EntertainTV,TV__EXIT
+Schließe die MagentaTV Einstellungen,TV__EXIT
+MagentaTV verlass den Kids-Bereich,TV__EXIT
+Hauptmenü schließen EntertainTV,TV__EXIT
+TV-Programm wieder schließen MagentaTV,TV__EXIT
+Schließ meine MagentaTV Aufnahmen,TV__EXIT
+Schließe die Megathek MagentaTV,TV__EXIT
+MagentaTV meine Inhalte schließen,TV__EXIT
+Verlasse die Megathek wieder MagentaTV,TV__EXIT
+Exit MagentaTV,TV__EXIT
+MagentaTV schließe das Hauptmenü,TV__EXIT
+Hilfe schließen MagentaTV\nMagentaTV Exit,TV__EXIT
+Verlasse das MagentaTV Hauptmenü,TV__EXIT
+EntertainTV Menü wieder verlassen,TV__EXIT
+Einstellungen verlassen MagentaTV,TV__EXIT
+Schließ den Sport-Bereich MagentaTV,TV__EXIT
+MagentaTV schließ das Menü,TV__EXIT
+Starte Aufnahme von MagentaTV,TV__INSTANT_RECORDING
+Aufnehmen was gerade auf MagentaTV kommt,TV__INSTANT_RECORDING
+Zeichne das hier auf MagentaTV auf,TV__INSTANT_RECORDING
+EntertainTV aufzeichnen,TV__INSTANT_RECORDING
+Beginne Aufnahme auf MagentaTV,TV__INSTANT_RECORDING
+Starte Aufzeichnung auf MagentaTV,TV__INSTANT_RECORDING
+Starte Aufnahme MagentaTV,TV__INSTANT_RECORDING
+Nimm das mal auf EntertainTV auf,TV__INSTANT_RECORDING
+Beginne Aufzeichnung von MagentaTV,TV__INSTANT_RECORDING
+Aufnahme MagentaTV,TV__INSTANT_RECORDING
+MagentaTV Aufnahme starten,TV__INSTANT_RECORDING
+Nimm MagentaTV auf,TV__INSTANT_RECORDING
+MagentaTV Aufnahme beginnen,TV__INSTANT_RECORDING
+MagentaTV aufnehmen,TV__INSTANT_RECORDING
+Starte Aufzeichnung MagentaTV,TV__INSTANT_RECORDING
+Aufzeichnung MagentaTV,TV__INSTANT_RECORDING
+MagentaTV geh nach rechts,TV__NAVIGATE
+Entertain spring (zurück) zu jetzt,TV__NAVIGATE
+MagentaTV eins nach rechts springen,TV__NAVIGATE
+Eins rauf gehen MagentaTV,TV__NAVIGATE
+MagentaTV spring (zurück) zum jetzigen Zeitpunkt,TV__NAVIGATE
+Zu jetzt (zurück)springen MagentaTV,TV__NAVIGATE
+Zeig mir wieder 17 Uhr NITRO an MagentaTV,TV__NAVIGATE
+MagentaTV Dienstag zeigen,TV__NAVIGATE
+MagentaTV spring eins nach oben,TV__NAVIGATE
+MagentaTV gehe mal zum Montag auf ARTE,TV__NAVIGATE
+MagentaTV zurück zum 28.11. ZDF,TV__NAVIGATE
+Zu jetzt auf aktuellem Sender (zurück)gehen MagentaTV,TV__NAVIGATE
+MagentaTV geh nach oben,TV__NAVIGATE
+Spring nochmal auf den Montag von Tele 5 MagentaTV,TV__NAVIGATE
+EntertainTV eins nach links gehen,TV__NAVIGATE
+EntertainTV gehe zum aktuellen Kanal (zurück),TV__NAVIGATE
+Zeige jetzt mal ZDF MagentaTV,TV__NAVIGATE
+Spring zum aktuellen Kanal (zurück) MagentaTV,TV__NAVIGATE
+Eins nach rechts gehen MagentaTV,TV__NAVIGATE
+MagentaTV eins nach unten springen,TV__NAVIGATE
+Geh eins nach oben MagentaTV,TV__NAVIGATE
+MagentaTV geh (zurück) zu jetzt auf dem aktuellen Sender,TV__NAVIGATE
+Eins nach oben gehen MagentaTV,TV__NAVIGATE
+EntertainTV 20 Uhr bei 3Sat zeigen,TV__NAVIGATE
+Nach rechts springen MagentaTV,TV__NAVIGATE
+zurück zu ZDF MagentaTV,TV__NAVIGATE
+MagentaTV geh zu 20 Uhr,TV__NAVIGATE
+Zu aktuellem Kanal (zurück) MagentaTV,TV__NAVIGATE
+Spring nochmal auf den Montag MagentaTV,TV__NAVIGATE
+Aktuelles EPG MagentaTV,TV__NAVIGATE
+Eins runter gehen MagentaTV,TV__NAVIGATE
+MagentaTV letzten Dienstag auf ProSieben anzeigen,TV__NAVIGATE
+EntertainTV gehe zu ARTE,TV__NAVIGATE
+MagentaTV zeig mal KiKA,TV__NAVIGATE
+Geh (zurück) zum aktuellen Zeitpunkt MagentaTV,TV__NAVIGATE
+Zeig BR MagentaTV,TV__NAVIGATE
+Geh eins nach unten MagentaTV,TV__NAVIGATE
+MagentaTV eins nach oben gehen,TV__NAVIGATE
+Aktueller Kanal und aktuelle Zeit MagentaTV,TV__NAVIGATE
+Spring eins nach rechts MagentaTV,TV__NAVIGATE
+EntertainTV aktueller Sender,TV__NAVIGATE
+MagentaTV (zurück) zum aktuellen Sender,TV__NAVIGATE
+MagentaTV geh weiter zu RTL 2,TV__NAVIGATE
+Zum aktuellen Kanal (zurück) MagentaTV,TV__NAVIGATE
+Entertain spring (zurück) zu aktuellem Sender und aktueller Zeit,TV__NAVIGATE
+MagentaTV zeige mir ARD am Sonntag,TV__NAVIGATE
+Geh nach rechts MagentaTV,TV__NAVIGATE
+MagentaTV zu ARD am Samstag,TV__NAVIGATE
+MagentaTV jetzt zum Abend,TV__NAVIGATE
+MagentaTV nach rechts,TV__NAVIGATE
+Zu 17:30 Uhr springen MagentaTV,TV__NAVIGATE
+MagentaTV spring eins nach links,TV__NAVIGATE
+MagentaTV geh eins hoch,TV__NAVIGATE
+MagentaTV zeig mir RTL,TV__NAVIGATE
+MagentaTV nach links gehen,TV__NAVIGATE
+zum Nachmittag MagentaTV,TV__NAVIGATE
+eins nach unten MagentaTV,TV__NAVIGATE
+eins nach rechts MagentaTV,TV__NAVIGATE
+MagentaTV eins runter gehen,TV__NAVIGATE
+MagentaTV weiter zu RTL,TV__NAVIGATE
+Zu kabel eins 17:30 Uhr springen MagentaTV,TV__NAVIGATE
+Eins nach oben springen MagentaTV,TV__NAVIGATE
+Spring eins rauf MagentaTV,TV__NAVIGATE
+Geh zum aktuellen Sender (zurück) Entertain,TV__NAVIGATE
+Spring zu 22 Uhr MagentaTV,TV__NAVIGATE
+MagentaTV gehe eins nach rechts,TV__NAVIGATE
+MagentaTV Programm für jetzt,TV__NAVIGATE
+Springe auf Mittwoch MagentaTV,TV__NAVIGATE
+(Zurück) zu jetzigem Zeitpunkt und aktuellem Kanal MagentaTV,TV__NAVIGATE
+Zum aktuellen Kanal springen MagentaTV,TV__NAVIGATE
+Eins nach links gehen MagentaTV,TV__NAVIGATE
+(In) MagentaTV zu aktuellem Kanal springen,TV__NAVIGATE
+MagentaTV nach links,TV__NAVIGATE
+EntertainTV nach oben gehen,TV__NAVIGATE
+MagentaTV auf 15 Uhr bei ZDF gehen,TV__NAVIGATE
+MagentaTV geh zu 21:30 Uhr auf sixx,TV__NAVIGATE
+MagentaTV auf 15 Uhr gehen,TV__NAVIGATE
+Zu jetzt im TV-Programm EntertainTV,TV__NAVIGATE
+Springe nach oben MagentaTV,TV__NAVIGATE
+MagentaTV gehe eins nach links,TV__NAVIGATE
+weiter zum Abend MagentaTV,TV__NAVIGATE
+Runter springen MagentaTV,TV__NAVIGATE
+MagentaTV aktueller Kanal und aktueller Zeitpunkt,TV__NAVIGATE
+MagentaTV zu ARTE,TV__NAVIGATE
+eins nach links MagentaTV,TV__NAVIGATE
+MagentaTV spring wieder zur aktuellen Uhrzeit (zurück),TV__NAVIGATE
+Zum Montag springen MagentaTV,TV__NAVIGATE
+Springe nach rechts MagentaTV,TV__NAVIGATE
+MagentaTV auf 20 Uhr springen,TV__NAVIGATE
+MagentaTV nochmal zum Freitag auf ONE springen,TV__NAVIGATE
+Spring eins nach links MagentaTV,TV__NAVIGATE
+jetzt zum BR MagentaTV,TV__NAVIGATE
+MagentaTV geh runter,TV__NAVIGATE
+MagentaTV auf WDR 20 Uhr springen,TV__NAVIGATE
+MagentaTV geh zu RTL 20 Uhr,TV__NAVIGATE
+Gehe nochmal zu VOX MagentaTV,TV__NAVIGATE
+(Zurück) zum aktuellen Sender und zu aktueller Uhrzeit EntertainTV,TV__NAVIGATE
+Zum aktuellen Sender gehen MagentaTV,TV__NAVIGATE
+MagentaTV eins nach rechts gehen,TV__NAVIGATE
+MagentaTV gehe eins nach oben,TV__NAVIGATE
+MagentaTV nach oben,TV__NAVIGATE
+Springe auf Mittwoch bei RTL MagentaTV,TV__NAVIGATE
+MagentaTV nach unten,TV__NAVIGATE
+MagentaTV Geh zu jetzt (zurück),TV__NAVIGATE
+MagentaTV gehe mal zum Montag,TV__NAVIGATE
+Eins nach unten gehen MagentaTV,TV__NAVIGATE
+MagentaTV spring eins nach rechts,TV__NAVIGATE
+Zum Montag auf VOX springen MagentaTV,TV__NAVIGATE
+Zu jetzt (zurück)gehen MagentaTV,TV__NAVIGATE
+jetzt ARD am Nachmittag MagentaTV,TV__NAVIGATE
+Aktuelles Fernsehprogramm MagentaTV,TV__NAVIGATE
+MagentaTV zeige mir den Sonntag,TV__NAVIGATE
+Geh jetzt zu ARD MagentaTV,TV__NAVIGATE
+MagentaTV zurück zu 10 Uhr,TV__NAVIGATE
+Springe nach unten MagentaTV,TV__NAVIGATE
+zu 20 Uhr MagentaTV,TV__NAVIGATE
+MagentaTV springe hoch,TV__NAVIGATE
+Zu aktuellem Sender gehen auf MagentaTV,TV__NAVIGATE
+zurück zum Vormittag MagentaTV,TV__NAVIGATE
+Zeig mir wieder 17 Uhr an EntertainTV,TV__NAVIGATE
+weiter zu 22 Uhr MagentaTV,TV__NAVIGATE
+EntertainTV nach unten gehen,TV__NAVIGATE
+Nach links springen MagentaTV,TV__NAVIGATE
+MagentaTV eins nach unten gehen,TV__NAVIGATE
+MagentaTV gehe eins nach unten,TV__NAVIGATE
+Spring eins nach oben MagentaTV,TV__NAVIGATE
+Geh zum Ersten MagentaTV,TV__NAVIGATE
+Springe nach links MagentaTV,TV__NAVIGATE
+MagentaTV geh zum Vormittag,TV__NAVIGATE
+Zu jetzt auf aktuellen Kanal (zurück)springen MagentaTV,TV__NAVIGATE
+MagentaTV spring eins nach unten,TV__NAVIGATE
+Geh eins nach links MagentaTV,TV__NAVIGATE
+Aktuelles Programm EntertainTV,TV__NAVIGATE
+MagentaTV geh nach links,TV__NAVIGATE
+eins nach oben MagentaTV,TV__NAVIGATE
+MagentaTV eins nach oben springen,TV__NAVIGATE
+MagentaTV eins nach links springen,TV__NAVIGATE
+Spring eins runter MagentaTV,TV__NAVIGATE
+Aktuelle Zeit und aktueller Sender EntertainTV,TV__NAVIGATE
+zu RTL 20 Uhr MagentaTV,TV__NAVIGATE
+EntertainTV nach rechts gehen,TV__NAVIGATE
+Aktueller Kanal MagentaTV,TV__NAVIGATE
+MagentaTV geh zu 21:30 Uhr,TV__NAVIGATE
+MagentaTV gehe zurück zu SAT.1,TV__NAVIGATE
+eins nach oben in MagentaTV,TV__NAVIGATION_KEYS
+navigiere bitte eins hoch im Entertain,TV__NAVIGATION_KEYS
+MagentaTV geh nach links,TV__NAVIGATION_KEYS
+spring in MagentaTV nach oben,TV__NAVIGATION_KEYS
+spring eins nach oben in EntertainTV,TV__NAVIGATION_KEYS
+eins nach unten springen im Entertain,TV__NAVIGATION_KEYS
+eins nach unten in MagentaTV,TV__NAVIGATION_KEYS
+eins nach links in MagentaTV,TV__NAVIGATION_KEYS
+heraufspringen in MagentaTV,TV__NAVIGATION_KEYS
+in MagentaTV nach rechts springen,TV__NAVIGATION_KEYS
+eins nach unten navigieren in EntertainTV,TV__NAVIGATION_KEYS
+spring eins nach unten in EntertainTV,TV__NAVIGATION_KEYS
+spring in MagentaTV runter,TV__NAVIGATION_KEYS
+in MagentaTV nach rechts,TV__NAVIGATION_KEYS
+springe in MagentaTV runter,TV__NAVIGATION_KEYS
+spring eins runter in MagentaTV,TV__NAVIGATION_KEYS
+eins nach oben navigieren in EntertainTV,TV__NAVIGATION_KEYS
+eins nach oben springen im Entertain,TV__NAVIGATION_KEYS
+navigiere mal rauf in EntertainTV,TV__NAVIGATION_KEYS
+in EntertainTV navigiere eins nach oben,TV__NAVIGATION_KEYS
+spring eins herauf in MagentaTV,TV__NAVIGATION_KEYS
+in MagentaTV nach links springen,TV__NAVIGATION_KEYS
+spring eins nach links in EntertainTV,TV__NAVIGATION_KEYS
+spring in MagentaTV nach links,TV__NAVIGATION_KEYS
+in MagentaTV nach unten,TV__NAVIGATION_KEYS
+spring eins nach rechts in EntertainTV,TV__NAVIGATION_KEYS
+runterspringen in MagentaTV,TV__NAVIGATION_KEYS
+spring in MagentaTV hinauf,TV__NAVIGATION_KEYS
+eins nach rechts in MagentaTV,TV__NAVIGATION_KEYS
+in EntertainTV navigiere eins nach unten,TV__NAVIGATION_KEYS
+in MagentaTV nach oben,TV__NAVIGATION_KEYS
+spring in MagentaTV nach unten,TV__NAVIGATION_KEYS
+spring in MagentaTV nach rechts,TV__NAVIGATION_KEYS
+MagentaTV geh nach oben,TV__NAVIGATION_KEYS
+sping bitte eins runter in MagentaTV,TV__NAVIGATION_KEYS
+springe in MagentaTV herauf,TV__NAVIGATION_KEYS
+in MagentaTV nach oben navigieren bitte,TV__NAVIGATION_KEYS
+in MagentaTV nach unten navigieren bitte,TV__NAVIGATION_KEYS
+in MagentaTV nach links,TV__NAVIGATION_KEYS
+navigiere nach unten in MagentaTV,TV__NAVIGATION_KEYS
+in MagentaTV nach unten springen,TV__NAVIGATION_KEYS
+sping bitte eins hinauf in MagentaTV,TV__NAVIGATION_KEYS
+hinaufspringen in MagentaTV,TV__NAVIGATION_KEYS
+eins nach links springen im Entertain,TV__NAVIGATION_KEYS
+navigiere nach oben in MagentaTV,TV__NAVIGATION_KEYS
+eins nach rechts springen im Entertain,TV__NAVIGATION_KEYS
+in MagentaTV nach oben springen,TV__NAVIGATION_KEYS
+Schalte auf den nächsten Sender auf MagentaTV,TV__NEXT_CHANNEL
+Auf MagentaTV einen Kanal höher,TV__NEXT_CHANNEL
+MagentaTV auf nächsten Kanal schalten,TV__NEXT_CHANNEL
+Geh weiter zum nächsten Kanal auf MagentaTV,TV__NEXT_CHANNEL
+Schalte Entertain auf den nächsten Sender,TV__NEXT_CHANNEL
+Ein Programm runter auf MagentaTV,TV__NEXT_CHANNEL
+Schalte eins zurück auf MagentaTV,TV__NEXT_CHANNEL
+MagentaTV einen Kanal zurück,TV__NEXT_CHANNEL
+MagentaTV ein Kanal hoch,TV__NEXT_CHANNEL
+Einen Kanal zurückschalten auf MagentaTV,TV__NEXT_CHANNEL
+Schalte auf MagentaTV einen Sender zurück,TV__NEXT_CHANNEL
+Schalt einen Kanal weiter auf EntertainTV,TV__NEXT_CHANNEL
+EntertainTV ein Sender zurück,TV__NEXT_CHANNEL
+Schalte MagentaTV ein Kanal hoch,TV__NEXT_CHANNEL
+Schalte nächsten Sender von EntertainTV,TV__NEXT_CHANNEL
+Schalte zum nächsten Kanal auf EntertainTV,TV__NEXT_CHANNEL
+Im Entertain ein Programm zurück,TV__NEXT_CHANNEL
+Einen Sender zurück auf MagentaTV schalten,TV__NEXT_CHANNEL
+Schalte um zum nächsten Sender auf Entertain,TV__NEXT_CHANNEL
+Schalte nächsten Sender auf MagentaTV,TV__NEXT_CHANNEL
+Auf EntertainTV einen Kanal runter,TV__NEXT_CHANNEL
+auf ok drücken in EntertainTV,TV__OK
+EntertainTV bestätigen,TV__OK
+in EntertainTV mit ok bestätigen,TV__OK
+in MagentaTV ok drücken,TV__OK
+MagentaTV ich bestätige,TV__OK
+in MagentaTV das hier bitte öffnen,TV__OK
+wähl das bitte aus in MagentaTV,TV__OK
+in MagentaTV auf ok klicken,TV__OK
+ok klicken in EntertainTV,TV__OK
+MagentaTV ok,TV__OK
+drück ok in MagentaTV,TV__OK
+das hier bitte bestätigen in EntertainTV,TV__OK
+MagentaTV ok ich bestätige,TV__OK
+ok auswählen in MagentaTV,TV__OK
+wähl das hier aus in MagentaTV,TV__OK
+auf Ok-Taste klicken in MagentaTV,TV__OK
+das hier auswählen in EntertainTV,TV__OK
+EntertainTV ok bestätigt,TV__OK
+MagentaTV bestätige,TV__OK
+klick ok auf MagentaTV,TV__OK
+EntertainTV öffnen,TV__OK
+das bitte öffnen in EntertainTV,TV__OK
+auswählen in MagentaTV,TV__OK
+MagentaTV öffne,TV__OK
+wähle ok aus in MagentaTV,TV__OK
+bitte öffnen in MagentaTV,TV__OK
+MagentaTV Prime Video,TV__OPEN_PARTNER_APP
+Öffne die Netflix App in MagentaTV,TV__OPEN_PARTNER_APP
+in MagentaTV zu Syfy wechseln,TV__OPEN_PARTNER_APP
+in MagentaTV CityVision aufmachen,TV__OPEN_PARTNER_APP
+Wechsle zur App TNT Film auf MagentaTV,TV__OPEN_PARTNER_APP
+Mach die ARD Mediathek auf in EntertainTV,TV__OPEN_PARTNER_APP
+Schalte auf die YouTube Kids App in EntertainTV,TV__OPEN_PARTNER_APP
+in EntertainTV Telekom Eishockey starten,TV__OPEN_PARTNER_APP
+Geh zur App FRANCE 24 auf MagentaTV,TV__OPEN_PARTNER_APP
+Geh zu YouTube Cobalt auf MagentaTV,TV__OPEN_PARTNER_APP
+Starte Digital Concert auf MagentaTV,TV__OPEN_PARTNER_APP
+Wechsle zu ARD Mediathek auf EntertainTV,TV__OPEN_PARTNER_APP
+Öffne die ZDF Mediathek in EntertainTV,TV__OPEN_PARTNER_APP
+Starte die App Telekom Sport auf EntertainTV,TV__OPEN_PARTNER_APP
+in EntertainTV zu Videoload gehen,TV__OPEN_PARTNER_APP
+Wechsle zu Youtube in MagentaTV,TV__OPEN_PARTNER_APP
+Schalte auf die ARD Mediathek in MagentaTV,TV__OPEN_PARTNER_APP
+Öffne TV NOW in MagentaTV,TV__OPEN_PARTNER_APP
+Starte die ZDF Mediathek in MagentaTV,TV__OPEN_PARTNER_APP
+Mach die MagentaSport App auf in MagentaTV,TV__OPEN_PARTNER_APP
+in MagentaTV auf maxdome schalten,TV__OPEN_PARTNER_APP
+in EntertainTV Disney Channel öffnen,TV__OPEN_PARTNER_APP
+Geh zu ZDF Mediathek in EntertainTV,TV__OPEN_PARTNER_APP
+Mach YouTube auf auf MagentaTV,TV__OPEN_PARTNER_APP
+Schalte auf Netflix in MagentaTV,TV__OPEN_PARTNER_APP
+Zu meinen EntertainTV Aufnahmen,TV__OPEN_RECORDINGS
+Zeig mir die MagentaTV Aufnahmen,TV__OPEN_RECORDINGS
+Was habe ich auf MagentaTV aufgenommen,TV__OPEN_RECORDINGS
+Zeige meine Entertain Aufzeichnungen,TV__OPEN_RECORDINGS
+EntertainTV Aufnahmen öffnen,TV__OPEN_RECORDINGS
+Was habe ich in meinen EntertainTV Aufnahmen gespeichert?,TV__OPEN_RECORDINGS
+Was hab ich alles auf Entertain aufgezeichnet,TV__OPEN_RECORDINGS
+Meine Aufnahme Liste auf Entertain anzeigen,TV__OPEN_RECORDINGS
+Die Entertain Aufnahmeliste öffnen,TV__OPEN_RECORDINGS
+Zeige meine EntertainTV Aufnahmen,TV__OPEN_RECORDINGS
+Öffne meine Aufnahmen in MagentaTV,TV__OPEN_RECORDINGS
+Öffne meine MagentaTV Aufzeichnungen,TV__OPEN_RECORDINGS
+Öffne meine Entertain Aufnahmen,TV__OPEN_RECORDINGS
+Zeige Aufnahmen auf MagentaTV,TV__OPEN_RECORDINGS
+Öffne das Aufnahme-Menü in EntertainTV,TV__OPEN_RECORDINGS
+Öffne mir die Liste mit meinen MagentaTV Aufnahmen,TV__OPEN_RECORDINGS
+EntertainTV Wiedergabe unterbrechen,TV__PAUSE
+Stoppe MagentaTV,TV__PAUSE
+Pause auf EntertainTV,TV__PAUSE
+MagentaTV stoppen,TV__PAUSE
+MagentaTV Filmpause,TV__PAUSE
+EntertainTV auf Pause,TV__PAUSE
+MagentaTV anhalten,TV__PAUSE
+EntertainTV pausieren,TV__PAUSE
+MagentaTV auf Pause schalten,TV__PAUSE
+Unterbreche die Sendung auf MagentaTV,TV__PAUSE
+Halte das Programm auf MagentaTV an,TV__PAUSE
+Pausiere die Wiedergabe auf EntertainTV,TV__PAUSE
+Pausiere MagentaTV,TV__PAUSE
+Unterbreche EntertainTV,TV__PAUSE
+Schalte den Film bei MagentaTV auf Pause,TV__PAUSE
+EntertainTV Wiedergabe pausieren,TV__PAUSE
+EntertainTV Wiedergabe anhalten,TV__PAUSE
+Schalte MagentaTV auf Pause,TV__PAUSE
+MagentaTV unterbrechen,TV__PAUSE
+Stoppe den Film auf MagentaTV,TV__PAUSE
+Halte EntertainTV an,TV__PAUSE
+Timeshift auf MagentaTV,TV__PAUSE
+Mach mal Pause mit MagentaTV,TV__PAUSE
+EntertainTV Wiedergabe stoppen,TV__PAUSE
+MagentaTV Pause,TV__PAUSE
+Filmpause auf Entertain,TV__PAUSE
+MagentaTV Pause beenden,TV__PLAY
+Drücke Play bei Entertain,TV__PLAY
+Setz MagentaTV fort,TV__PLAY
+Sendung auf MagentaTV fortsetzen,TV__PLAY
+EntertainTV fortsetzen,TV__PLAY
+MagentaTV Film weiter ansehen,TV__PLAY
+MagentaTV fortsetzen,TV__PLAY
+Programm auf MagentaTV weiterlaufen lassen,TV__PLAY
+MagentaTV Timeshift fortsetzen,TV__PLAY
+Bitte MagentaTV wieder abspielen,TV__PLAY
+MagentaTV weiter schauen,TV__PLAY
+Spiel MagentaTV wieder ab,TV__PLAY
+MagentaTV weiter,TV__PLAY
+Setze MagentaTV fort,TV__PLAY
+MagentaTV abspielen,TV__PLAY
+MagentaTV Play,TV__PLAY
+Pause beenden auf MagentaTV,TV__PLAY
+Lass den MagentaTV weiterlaufen,TV__PLAY
+Mach weiter mit MagentaTV,TV__PLAY
+Bitte den Film fortsetzen auf MagentaTV,TV__PLAY
+Weiter laufen lassen auf MagentaTV,TV__PLAY
+EntertainTV Wiedergabe fortsetzen,TV__PLAY
+Laufende Sendung auf MagentaTV fortsetzen,TV__PLAY
+MagentaTV an,TV__POWER
+mach bitte EntertainTV aus,TV__POWER
+MagentaTV einschalten,TV__POWER
+kannst du mal MagentaTV starten,TV__POWER
+MagentaTV starten,TV__POWER
+schalte MagentaTV aus,TV__POWER
+MagentaTV beenden,TV__POWER
+kannst du bitte MagentaTV wieder einschalten,TV__POWER
+mach den MagentaTV wieder an,TV__POWER
+EntertainTV ausschalten,TV__POWER
+beende EntertainTV,TV__POWER
+MagentaTV wieder einschalten,TV__POWER
+kannst du mal MagentaTV beenden,TV__POWER
+mach bitte MagentaTV an,TV__POWER
+schalte MagentaTV an,TV__POWER
+starte MagentaTV,TV__POWER
+kannst du bitte EntertainTV wieder ausschalten,TV__POWER
+MagentaTV wieder ausschalten,TV__POWER
+MagentaTV aus,TV__POWER
+mach den Entertain wieder aus,TV__POWER
+stell MagentaTV an,TV__POWER
+Magenta TV was wird eigentlich montags auf RTL gezeigt?,TV__PROGRAM
+Was wird bei Tele 5 gezeigt MagentaTV,TV__PROGRAM
+MagentaTV was läuft gerade im Fernsehen,TV__PROGRAM
+Welche Sendungen kommen am späten Abend MagentaTV,TV__PROGRAM
+MagentaTV was bringen sie am Montag bis 10 Uhr auf dem Sender WDR,TV__PROGRAM
+MagentaTV was kommt denn im Fernsehen,TV__PROGRAM
+MagentaTV was zeigen sie auf kabel eins,TV__PROGRAM
+MagentaTV Fernsehprogramm,TV__PROGRAM
+EntertainTV was kam letzten Freitag im TV,TV__PROGRAM
+MagentaTV was bringen sie nächste Woche,TV__PROGRAM
+Was gibt es eigentlich am Donnerstag nachmittags bei Bayern MagentaTV,TV__PROGRAM
+Was zeigt ARTE MagentaTV,TV__PROGRAM
+Was bringen sie am Nachmittag um 3 Uhr im Fernsehen MagentaTV,TV__PROGRAM
+Was gibt es eigentlich am Donnerstag im Ersten MagentaTV,TV__PROGRAM
+Was läuft zur Mittagszeit MagentaTV,TV__PROGRAM
+Was wird um 20:15 Uhr gezeigt MagentaTV,TV__PROGRAM
+MagentaTV welche Sendungen kommen im Augenblick auf KiKA,TV__PROGRAM
+Was läuft denn an Weihnachten morgens im Fernsehen MagentaTV,TV__PROGRAM
+Was ist gerade auf sixx im Programm MagentaTV,TV__PROGRAM
+MagentaTV welche Sendung läuft denn auf Sat.1,TV__PROGRAM
+MagentaTV was bringen sie auf dem Sender NDR,TV__PROGRAM
+Was wird morgen bei Tele 5 um 20:15 Uhr gezeigt MagentaTV,TV__PROGRAM
+Was gibt es eigentlich am Donnerstag Nachmittag im Fernsehen MagentaTV,TV__PROGRAM
+Was läuft denn im Moment im Fernsehen MagentaTV,TV__PROGRAM
+Was gibt's grade bei RTL II EntertainTV,TV__PROGRAM
+MagentaTV welche Sendungen kommen denn übermorgen auf RTL,TV__PROGRAM
+Welche Sendung kommt denn jetzt bei MDR MagentaTV,TV__PROGRAM
+MagentaTV welche Sendungen kommen am 3.5. morgens auf ARD,TV__PROGRAM
+Was gibt es eigentlich abends im Fernsehen MagentaTV,TV__PROGRAM
+MagentaTV was kommt denn jetzt auf ARTE,TV__PROGRAM
+MagentaTV welche Sendungen laufen denn am Vormittag,TV__PROGRAM
+Magenta TV was wird auf RTL gezeigt,TV__PROGRAM
+Was ist auf RTL um 18:30 Uhr im Programm MagentaTV,TV__PROGRAM
+MagentaTV was bringen sie am Mittwoch Mittag im TV,TV__PROGRAM
+Magenta TV was kommt eigentlich montags,TV__PROGRAM
+MagentaTV was läuft am Samstag tagsüber im TV,TV__PROGRAM
+Magenta TV was wird momentan bei ONE gezeigt?,TV__PROGRAM
+MagentaTV welche Sendungen kommen übermorgen um 20 Uhr im TV,TV__PROGRAM
+Programm an Weihnachten MagentaTV,TV__PROGRAM
+Was läuft denn an Weihnachten bei ZDF EntertainTV,TV__PROGRAM
+MagentaTV was kommt denn auf ARD,TV__PROGRAM
+MagentaTV RTL II Programm,TV__PROGRAM
+EntertainTV was kommt denn jetzt im TV,TV__PROGRAM
+MagentaTV was kommt denn am Freitag von 9 bis 13 Uhr im Fernsehen,TV__PROGRAM
+MagentaTV was bringen sie nächste Woche im Fernsehen,TV__PROGRAM
+Was ist freitags um 18:30 Uhr im Fernsehen MagentaTV,TV__PROGRAM
+Was gibt es jetzt gerade im Ersten MagentaTV,TV__PROGRAM
+Was bringt der Bayrische Rundfunk jetzt im Moment MagentaTV,TV__PROGRAM
+Was gibt's denn morgen im Fernsehen MagentaTV,TV__PROGRAM
+Was bringen sie im TV MagentaTV,TV__PROGRAM
+MagentaTV was bringen sie auf dem Sender WDR,TV__PROGRAM
+MagentaTV was läuft am Samstagabend im Fernsehen,TV__PROGRAM
+Was bringt ARTE morgen am Mittag MagentaTV,TV__PROGRAM
+MagentaTV was zeigen sie im Moment auf NITRO,TV__PROGRAM
+MagentaTV was kam gestern,TV__PROGRAM
+Was läuft denn an Ostern nachmittags bei ZDF EntertainTV,TV__PROGRAM
+MagentaTV welche Sendung läuft denn am Vormittag auf SAT.1,TV__PROGRAM
+Was gibt's denn bei RTL II MagentaTV,TV__PROGRAM
+Was gibt's denn morgen bei RTL II MagentaTV,TV__PROGRAM
+Welche Sendung kommt bei ProSieben MagentaTV,TV__PROGRAM
+Was bringen sie aktuell im Fernsehen MagentaTV,TV__PROGRAM
+MagentaTV was lief vorgestern im Fernsehen,TV__PROGRAM
+MagentaTV Programm am Samstagabend,TV__PROGRAM
+MagentaTV welche Sendungen laufen denn am Vormittag im TV,TV__PROGRAM
+Was bringt eigentlich der Bayrische Rundfunk MagentaTV,TV__PROGRAM
+Magenta TV was wird eigentlich montags um 15 Uhr auf dem Hessischen Rundfunk gezeigt?,TV__PROGRAM
+Was kommt zur Prime Time MagentaTV,TV__PROGRAM
+MagentaTV was kommt denn am Freitag auf ARD,TV__PROGRAM
+Was gibt's denn Dienstag spätabends im Fernsehen MagentaTV,TV__PROGRAM
+MagentaTV welche Sendungen kommen denn übermorgen im TV,TV__PROGRAM
+Was zeigt RTLzwei gerade MagentaTV,TV__PROGRAM
+Was ist auf RTL im Programm MagentaTV,TV__PROGRAM
+MagentaTV was wird eigentlich montags um 15 Uhr im Fernsehen gezeigt?,TV__PROGRAM
+MagentaTV welche Sendung läuft denn übermorgen am Vormittag im Ersten,TV__PROGRAM
+Was gibt es eigentlich im Abendprogramm EntertainTV,TV__PROGRAM
+MagentaTV was bringen sie jetzt gerade auf dem Sender ProSieben,TV__PROGRAM
+Was läuft denn an Pfingsten im Fernsehen MagentaTV,TV__PROGRAM
+MagentaTV was läuft am Samstagabend im MDR,TV__PROGRAM
+Was läuft eigentlich im Fernsehen MagentaTV,TV__PROGRAM
+MagentaTV jetzt im Fernsehen,TV__PROGRAM
+MagentaTV was bringen sie momentan im TV,TV__PROGRAM
+MagentaTV was wird im Moment auf RTLplus gezeigt,TV__PROGRAM
+Was läuft eigentlich zur Zeit im Fernsehen MagentaTV,TV__PROGRAM
+Was gibt es im Ersten MagentaTV,TV__PROGRAM
+Was gibt's am Samstag zur Prime Time im Fernsehen MagentaTV,TV__PROGRAM
+MagentaTV was ist auf 3sat aktuell im Programm,TV__PROGRAM
+MagentaTV was kommt jetzt gerade im Fernsehen,TV__PROGRAM
+MagentaTV was zeigen sie morgens um 7 Uhr auf Kabeleins,TV__PROGRAM
+Was wird morgen um 20:15 Uhr im TV gezeigt MagentaTV,TV__PROGRAM
+Freitagabend Programm MagentaTV,TV__PROGRAM
+Was läuft denn an Ostern MagentaTV,TV__PROGRAM
+MagentaTV was läuft am Samstagabend,TV__PROGRAM
+ARD Programm MagentaTV,TV__PROGRAM
+MagentaTV was lief vorgestern,TV__PROGRAM
+Was läuft denn aktuell bei zdf_neo MagentaTV,TV__PROGRAM
+MagentaTV Programm zu Ostern,TV__PROGRAM
+Was läuft zur Mittagszeit im Fernsehen MagentaTV,TV__PROGRAM
+EntertainTV was läuft eigentlich im TV,TV__PROGRAM
+Was kommt zur Prime Time im Fernsehen MagentaTV,TV__PROGRAM
+MagentaTV was kommt eigentlich montags im Fernsehen,TV__PROGRAM
+Programm ARD MagentaTV,TV__PROGRAM
+Was zeigt RTL zur Prime Time MagentaTV,TV__PROGRAM
+Welche Sendung kommt bei ProSieben MAXX am späten Abend MagentaTV,TV__PROGRAM
+EntertainTV was zeigen sie morgens um 7 Uhr im Fernsehen,TV__PROGRAM
+Was wird momentan bei Tele 5 gezeigt MagentaTV,TV__PROGRAM
+Was wird um 20:15 Uhr im Fernsehen gezeigt MagentaTV,TV__PROGRAM
+MagentaTV welche Sendung läuft denn zur Zeit auf Sat.1,TV__PROGRAM
+MagentaTV welche Sendungen kommen auf RTL,TV__PROGRAM
+TV Programm MagentaTV,TV__PROGRAM
+MagentaTV was kommt denn am Freitag Morgen auf VOX,TV__PROGRAM
+EntertainTV Programm RTL,TV__PROGRAM
+Was wird bei Tele 5 um 20:15 Uhr gezeigt MagentaTV,TV__PROGRAM
+MagentaTV welche Sendungen kommen denn übermorgen,TV__PROGRAM
+Was gibt's denn morgen MagentaTV,TV__PROGRAM
+Welche Sendungen kommen am späten Abend im Fernsehen MagentaTV,TV__PROGRAM
+EntertainTV was läuft eigentlich im MDR,TV__PROGRAM
+MagentaTV was läuft am Samstag tagsüber bei WDR,TV__PROGRAM
+Was läuft denn bei ZDF MagentaTV,TV__PROGRAM
+MagentaTV was läuft eigentlich gerade auf hr,TV__PROGRAM
+Was zeigt RTL am Samstag zur Prime Time MagentaTV,TV__PROGRAM
+Welche Sendung kommt bei ProSieben am 3.12. spätabends MagentaTV,TV__PROGRAM
+Was gibt's denn morgen am frühen Abend bei RTL II MagentaTV,TV__PROGRAM
+Nimm RTL als Einzelaufnahme in HD heute um acht Uhr auf MagentaTV auf,TV__RECORD
+Nimm Kanal 5 um 18:00 Uhr auf EntertainTV auf,TV__RECORD
+Nimm Kanal 5 morgen um 18:00 Uhr auf EntertainTV auf,TV__RECORD
+Nehme Interstellar am Nachmittag auf EntertainTV auf,TV__RECORD
+MagentaTV zeichne Harry Potter auf RTL2 um halb elf am Samstag auf,TV__RECORD
+Entertain Aufnahme von TELE 5 in SD starten,TV__RECORD
+MDR ab halb neun auf MagentaTV aufzeichnen,TV__RECORD
+Entertain Aufnahme von TELE 5 starten,TV__RECORD
+Beginne Serienaufnahme von Kanal 14 auf MagentaTV,TV__RECORD
+Auf EntertainTV SAT1 um 20:15 Uhr aufzeichnen,TV__RECORD
+Aufnahme von Kanal 23 in HD starten MagentaTV,TV__RECORD
+MagentaTV n-tv heute Abend aufnehmen,TV__RECORD
+FOX heute ab viertel nach acht bitte aufzeichnen,TV__RECORD
+MagentaTV Sendung als Serie in SD aufzeichnen,TV__RECORD
+MagentaTV Kanal 15 am Mittwoch aufnehmen,TV__RECORD
+Undercover Boss auf MagentaTV aufzeichnen,TV__RECORD
+EntertainTV nimm diese Sendung als Serie auf,TV__RECORD
+MagentaTV Forrest Gump am 23. Mai aufnehmen,TV__RECORD
+MagentaTV Game of Thrones als Serie aufnehmen,TV__RECORD
+Nimm mal Kanal 2 auf EntertainTV auf,TV__RECORD
+Kabel Eins am Samstag auf MagentaTV aufnehmen,TV__RECORD
+EntertainTV SD-Aufnahme RTL,TV__RECORD
+EntertainTV Serienaufnahme in SD starten,TV__RECORD
+Nimm den Tatort in HD auf ARD heute um acht Uhr auf MagentaTV auf,TV__RECORD
+MagentaTV Harry Potter am 6.6. aufzeichnen,TV__RECORD
+Beginne Aufnahme von MDR auf MagentaTV,TV__RECORD
+Nehme Interstellar übermorgen auf EntertainTV auf,TV__RECORD
+Nehme Interstellar auf RTL in SD morgen auf EntertainTV auf,TV__RECORD
+Diese RTL Serie in HD auf MagentaTV aufzeichnen,TV__RECORD
+MagentaTV starte Serienaufnahme,TV__RECORD
+Serie auf Comedy Central in SD samstags um halb sechs auf EntertainTV aufnehmen,TV__RECORD
+MagentaTV starte Serienaufnahme auf SAT.1,TV__RECORD
+MagentaTV nimm die Tagesschau am Montag um acht auf,TV__RECORD
+MDR am 5.7 auf MagentaTV aufzeichnen,TV__RECORD
+MagentaTV Einzelaufnahme beginnen,TV__RECORD
+Starte Serienaufnahme auf EntertainTV,TV__RECORD
+Nehme Interstellar auf RTL in SD morgen Abend auf EntertainTV auf,TV__RECORD
+MagentaTV Kanal 5 in HD aufnehmen,TV__RECORD
+MagentaTV ProSieben Serie in SD montags aufnehmen,TV__RECORD
+Nehme Personal Shopper auf VOX als Einzelaufnahme auf EntertainTV auf,TV__RECORD
+MagentaTV nimm Buffy auf ProSieben als Serienaufnahme um acht Uhr auf,TV__RECORD
+Starte Aufnahme vom Entertain in UHD,TV__RECORD
+Beginne HD-Aufnahme von Kanal 5 auf MagentaTV,TV__RECORD
+MagentaTV Game of Thrones auf RTL als Serie um elf Uhr aufnehmen,TV__RECORD
+Heute um halb acht South Park auf MagentaTV aufnehmen,TV__RECORD
+Nimm den Tatort als Serienaufnahme auf ARD um viertel nach acht auf MagentaTV auf,TV__RECORD
+MagentaTV Last Man Standing auf ProSieben um drei Uhr am Sonntag aufzeichnen,TV__RECORD
+Auf EntertainTV Gladiator morgen um 18:15 Uhr aufzeichnen,TV__RECORD
+MagentaTV Game of Thrones in UHD aufnehmen,TV__RECORD
+MagentaTV nimm Buffy auf Kanal 5 als Serienaufnahme auf,TV__RECORD
+Mach eine Aufnahme von Breaking Bad auf EntertainTV,TV__RECORD
+Nehme Interstellar heute Abend auf EntertainTV auf,TV__RECORD
+EntertainTV Serienaufnahme in HD auf Kanal 5 jeden Sonntag um viertel nach acht,TV__RECORD
+Entertain nimm Buffy in 4K auf VOX am 6.6 auf,TV__RECORD
+Friends am Samstag auf Entertain aufnehmen,TV__RECORD
+MagentaTV Undercover Boss heute Abend aufzeichnen,TV__RECORD
+MagentaTV Forrest Gump am 23. Mai um zehn Uhr aufnehmen,TV__RECORD
+MagentaTV Serienaufnahme in HD beginnen,TV__RECORD
+Kanal 20 in SD auf EntertainTV aufnehmen,TV__RECORD
+American Dad auf Comedy Central in HD aufnehmen EntertainTV,TV__RECORD
+Auf ProSieben jetzt Aufzeichnung von EntertainTV starten,TV__RECORD
+Nimm RTL heute um achtzehn Uhr auf MagentaTV auf,TV__RECORD
+MagentaTV Game of Thrones in UHD auf ProSieben am Montag aufnehmen,TV__RECORD
+EntertainTV Einzelaufnahme in HD,TV__RECORD
+EntertainTV Inception am 3. Mai auf VOX aufnehmen,TV__RECORD
+Nimm SAT1 auf MagentaTV auf,TV__RECORD
+EntertainTV nehme auf Fox Prison Break am 21. Juni auf,TV__RECORD
+Auf EntertainTV Serienaufnahme in HD starten,TV__RECORD
+Starte Aufzeichnung in SD MagentaTV,TV__RECORD
+Nehme Personal Shopper in SD auf EntertainTV auf,TV__RECORD
+Starte Serienaufnahme auf NDR bei EntertainTV,TV__RECORD
+MagentaTV nimm bitte Buffy auf,TV__RECORD
+SAT1 in HD auf MagentaTV aufnehmen,TV__RECORD
+Auf EntertainTV Serienaufnahme auf WDR starten,TV__RECORD
+MagentaTV auf ProSieben Serienaufnahme in HD starten,TV__RECORD
+Serienaufnahme in SD MagentaTV,TV__RECORD
+Am Sonntag um acht Uhr den Tatort auf Kanal 1 auf MagentaTV aufnehmen,TV__RECORD
+Um halb acht South Park auf MagentaTV aufnehmen,TV__RECORD
+MagentaTV n-tv am Dienstag aufnehmen,TV__RECORD
+EntertainTV Aufzeichnung in HD,TV__RECORD
+Entertain nimm Buffy in 4K auf VOX heute um viertel vor zehn auf,TV__RECORD
+MagentaTV Game of Thrones um viertel vor elf aufnehmen,TV__RECORD
+MagentaTV Game of Thrones in UHD auf ProSieben um elf Uhr aufnehmen,TV__RECORD
+Am Sonntag um acht Uhr den Tatort auf dem Ersten auf MagentaTV aufnehmen,TV__RECORD
+Auf MagentaTV eine SD Aufnahme starten,TV__RECORD
+Auf EntertainTV SAT1 am 3.7. aufzeichnen,TV__RECORD
+Nehme Personal Shopper als Einzelaufnahme auf EntertainTV auf,TV__RECORD
+Serie in SD auf Kanal 23 auf EntertainTV aufnehmen,TV__RECORD
+Friends am Samstag um neun Uhr auf MagentaTV aufnehmen,TV__RECORD
+Auf EntertainTV American Dad in HD aufnehmen,TV__RECORD
+Nimm den Tatort heute um viertel nach acht als Einzelaufnahme auf ARD auf MagentaTV auf,TV__RECORD
+MagentaTV Game of Thrones in UHD auf ProSieben aufnehmen,TV__RECORD
+Zeichne den Polizeiruf 110 auf EntertainTV auf,TV__RECORD
+MagentaTV starte Aufnahme von Kanal 7,TV__RECORD
+Aufzeichnung von MagentaTV in Full HD,TV__RECORD
+Beginne Serienaufnahme von RTL auf MagentaTV,TV__RECORD
+4K Aufnahme von ProSieben auf MagentaTV,TV__RECORD
+Beginne Serienaufnahme in 4K auf MagentaTV,TV__RECORD
+Auf EntertainTV SAT1 am 3.7. um 20:15 Uhr aufzeichnen,TV__RECORD
+MagentaTV Kanal 5 aufnehmen,TV__RECORD
+MagentaTV nimm Comedy Central morgen auf,TV__RECORD
+Entertain nimm VOX als Einzelaufnahme in HD heute um viertel vor zehn auf,TV__RECORD
+Auf EntertainTV American Dad um 18 Uhr aufnehmen,TV__RECORD
+MagentaTV RTL Sendung als Serie in SD aufzeichnen,TV__RECORD
+MagentaTV zeichne Harry Potter auf RTL2 am kommenden Samstag auf,TV__RECORD
+Nimm RTL heute als Einzelaufnahme in HD auf MagentaTV auf,TV__RECORD
+MagentaTV nimm Buffy auf ProSieben als Serienaufnahme am 1.6 auf,TV__RECORD
+Kanal 8 auf MagentaTV Aufnahme in SD starten,TV__RECORD
+Kanal 8 auf MagentaTV Aufnahme starten,TV__RECORD
+MagentaTV nimm das Automagazin auf n-tv auf,TV__RECORD
+Aufnahme machen von Bauer sucht Frau auf Entertain,TV__RECORD
+MagentaTV SD Aufnahme beginnen,TV__RECORD
+Big Bang Theory um viertel nach drei im Entertain aufnehmen,TV__RECORD
+Nimm Kanal 5 morgen auf EntertainTV auf,TV__RECORD
+Auf EntertainTV Gladiator aufzeichnen,TV__RECORD
+MagentaTV Last Man Standing auf ProSieben am Sonntag aufzeichnen,TV__RECORD
+MagentaTV Game of Thrones aufnehmen,TV__RECORD
+Serie auf Comedy Central in SD am Samstag auf EntertainTV aufnehmen,TV__RECORD
+Nimm RTL heute auf MagentaTV auf,TV__RECORD
+MagentaTV ProSieben Serie in SD um fünfzehn nach acht aufnehmen,TV__RECORD
+Aufnahme von Kanal 4 auf EntertainTV,TV__RECORD
+Nehme ZDF am Sonntag auf EntertainTV auf,TV__RECORD
+EntertainTV nimm das in HD als Serie auf,TV__RECORD
+Zeichne auf Kanal 12 den Polizeiruf 110 auf EntertainTV,TV__RECORD
+EntertainTV eine SD Aufnahme bitte,TV__RECORD
+Beginne Serienaufnahme von RTL in HD auf MagentaTV,TV__RECORD
+Auf EntertainTV American Dad als Serie aufnehmen,TV__RECORD
+Starte Serienaufnahme in HD auf Kanal 32 auf EntertainTV,TV__RECORD
+Nehme die Nachrichten auf ZDF auf Entertain auf,TV__RECORD
+Diese Serie auf MagentaTV aufzeichnen,TV__RECORD
+Kabel Eins am Samstag ab 19:00 Uhr auf MagentaTV aufnehmen,TV__RECORD
+MagentaTV nehm South Park auf Comedy Central auf,TV__RECORD
+Auf MagentaTV die ZDF Sendung Maybrit Illner aufnehmen,TV__RECORD
+EntertainTV Sendung als Einzelaufnahme aufzeichnen,TV__RECORD
+Zeichne das hier als Serie auf Magentatv auf,TV__RECORD
+Auf EntertainTV American Dad heute um 18 Uhr aufnehmen,TV__RECORD
+Nimm Herr der Ringe heute auf RTL auf MagentaTV auf,TV__RECORD
+Auf EntertainTV American Dad auf Comedy Central als Serie um sechs Uhr aufnehmen,TV__RECORD
+South Park auf MagentaTV aufnehmen,TV__RECORD
+Beginne Aufnahme von Kanal 5 auf MagentaTV,TV__RECORD
+Am 5. Juni Inception auf MagentaTV aufnehmen,TV__RECORD
+Auf EntertainTV Serienaufnahme starten,TV__RECORD
+MagentaTV Aufnahme RTL in HD,TV__RECORD
+MagentaTV Game of Thrones auf RTL sonntags um elf Uhr als Serie aufnehmen,TV__RECORD
+Auf EntertainTV American Dad auf Comedy Central als Einzelaufnahme morgen um sechs Uhr aufnehmen,TV__RECORD
+Aufnahme machen ProSieben 18:00 Uhr MagentaTV,TV__RECORD
+MagentaTV nimm bitte Buffy morgen um 12 Uhr auf,TV__RECORD
+Nimm den Tatort in HD auf ARD auf MagentaTV auf,TV__RECORD
+SD-Aufnahme MagentaTV,TV__RECORD
+MagentaTV zeichne auf MDR den Polizeiruf 110 auf,TV__RECORD
+Beginne Serienaufnahme in SD von Kanal 14 auf MagentaTV,TV__RECORD
+Nimm mal Kabel Eins auf EntertainTV auf,TV__RECORD
+Nimm das Automagazin auf dem Kanal 9 auf MagentaTV auf,TV__RECORD
+Einzelaufnahme in SD auf EntertainTV,TV__RECORD
+Auf Entertain im ZDF Interstellar aufnehmen,TV__RECORD
+Serie auf ARD auf EntertainTV aufnehmen,TV__RECORD
+MagentaTV Game of Thrones auf RTL als Serie aufnehmen,TV__RECORD
+Auf EntertainTV American Dad auf Comedy Central in HD um halb sechs aufnehmen,TV__RECORD
+Aufnahme von American Dad auf MagentaTV Kanal 23,TV__RECORD
+Mach eine Tele 5 Aufnahme von Forrest Gump auf MagentaTV,TV__RECORD
+Nehme Personal Shopper auf Kanal 6 als Einzelaufnahme morgen um halb sechs auf EntertainTV auf,TV__RECORD
+Starte Serienaufnahme auf Kanal 32 auf EntertainTV,TV__RECORD
+Bitte TELE 5 am 5. Juni um viertel nach acht im Entertain aufnehmen,TV__RECORD
+Auf EntertainTV Aufnahme machen DSDS RTL2,TV__RECORD
+Bitte Big Bang Theory im Entertain aufnehmen,TV__RECORD
+Zeichne das hier auf MagentaTV in HD auf,TV__RECORD
+Nehme Personal Shopper auf Kanal 6 als Einzelaufnahme um halb sechs auf EntertainTV auf,TV__RECORD
+Nimm den Tatort in HD auf ARD um acht Uhr auf MagentaTV auf,TV__RECORD
+Entertain Aufnahme Breaking Bad auf Fox,TV__RECORD
+Nimm Herr der Ringe auf RTL heute um acht Uhr auf MagentaTV auf,TV__RECORD
+EntertainTV Kanal 12 American Dad aufnehmen,TV__RECORD
+MagentaTV Aufnahme von Kanal 2 in HD starten,TV__RECORD
+MagentaTV ZDF aufnehmen,TV__RECORD
+Nimm das mal als Serie auf EntertainTV auf,TV__RECORD
+Entertain nimm Buffy in 4K auf VOX auf,TV__RECORD
+MDR morgen ab halb neun auf MagentaTV aufzeichnen,TV__RECORD
+Aufnahme auf EntertainTV in Ultra HD,TV__RECORD
+MagentaTV Interstellar bitte aufzeichnen,TV__RECORD
+EntertainTV Aufnahme von ZDF in HD,TV__RECORD
+Nimm Tatort als Serienaufnahme auf ARD auf MagentaTV auf,TV__RECORD
+Einzelaufnahme MagentaTV,TV__RECORD
+Auf EntertainTV American Dad heute aufnehmen,TV__RECORD
+MagentaTV nimm Buffy in 4K auf,TV__RECORD
+MagentaTV RTL Sendung als Serie aufzeichnen,TV__RECORD
+MagentaTV nimm Buffy auf ProSieben als Serienaufnahme jeden Samstag um acht Uhr auf,TV__RECORD
+Zeichne VOX morgen auf EntertainTV auf,TV__RECORD
+MagentaTV in HD aufnehmen,TV__RECORD
+MagentaTV Sendung als Serie aufzeichnen,TV__RECORD
+MagentaTV nimm um zwanzig Uhr die Tagesschau auf,TV__RECORD
+Starte Serienaufnahme in UHD auf EntertainTV,TV__RECORD
+Bitte TELE 5 um viertel nach acht im Entertain aufnehmen,TV__RECORD
+Starte Aufnahme von Kanal 17 auf EntertainTV,TV__RECORD
+Nehme die Nachrichten auf ARD heute um acht Uhr auf Entertain auf,TV__RECORD
+Aufzeichnung RTL in SD MagentaTV,TV__RECORD
+Auf EntertainTV 3Sat am Montag um viertel nach drei aufnehmen,TV__RECORD
+Auf EntertainTV Gladiator um 18:15 Uhr aufzeichnen,TV__RECORD
+Nehme die Nachrichten auf ARD heute auf Entertain auf,TV__RECORD
+Nehme ZDF um viertel vor acht auf EntertainTV auf,TV__RECORD
+Starte HD-Aufnahme auf MagentaTV,TV__RECORD
+EntertainTV VOX Sendung als Einzelaufnahme aufzeichnen,TV__RECORD
+MagentaTV Serienaufnahme auf Kanal 5 starten,TV__RECORD
+MagentaTV Kanal 15 um 15:00 Uhr aufnehmen,TV__RECORD
+Nehme ZDF am Sonntag um viertel vor acht auf EntertainTV auf,TV__RECORD
+EntertainTV Aufnahme in HD starten,TV__RECORD
+Starte Serienaufnahme in SD auf EntertainTV,TV__RECORD
+DSDS Aufnahme auf MagentaTV,TV__RECORD
+Diese RTL Serie auf MagentaTV aufzeichnen,TV__RECORD
+Nimm den Tatort auf Entertain auf dem Kanal 1 auf,TV__RECORD
+FOX heute bitte aufzeichnen,TV__RECORD
+Auf EntertainTV American Dad aufnehmen,TV__RECORD
+MagentaTV nimm Comedy Central morgen Abend auf,TV__RECORD
+MagentaTV n-tv um acht Uhr aufnehmen,TV__RECORD
+MagentaTV Game of Thrones in UHD auf ProSieben am Montag um elf Uhr aufnehmen,TV__RECORD
+Gladiator morgen auf EntertainTV aufzeichnen,TV__RECORD
+Serie auf Kanal 23 auf EntertainTV aufnehmen,TV__RECORD
+EntertainTV Kanal 12 American Dad morgen Abend aufnehmen,TV__RECORD
+Auf EntertainTV 3Sat um viertel nach drei aufnehmen,TV__RECORD
+Entertain nimm Buffy in 4K auf VOX um viertel vor zehn auf,TV__RECORD
+Kanal 24 Undercover Boss auf Entertain aufzeichnen,TV__RECORD
+MagentaTV Game of Thrones auf RTL als Serie am Sonntag aufnehmen,TV__RECORD
+Serie in HD auf MagentaTV aufzeichnen,TV__RECORD
+Mach eine Aufnahme von ARD übermorgen auf EntertainTV,TV__RECORD
+Nimm MagentaTV in HD auf,TV__RECORD
+Nimm den Tatort in HD heute auf ARD auf MagentaTV auf,TV__RECORD
+Nehme Interstellar auf RTL um halb elf in SD auf EntertainTV auf,TV__RECORD
+Starte ARD Aufnahme bei MagentaTV,TV__RECORD
+Serie auf ARD in 4K auf EntertainTV aufnehmen,TV__RECORD
+Starte Aufnahme von ProSieben auf MagentaTV,TV__RECORD
+MagentaTV nimm Buffy als Serienaufnahme auf,TV__RECORD
+Starte Serienaufnahme auf WDR in SD auf EntertainTV,TV__RECORD
+EntertainTV DSDS auf RTL2 in HD um viertel nach acht am Mittwoch aufnehmen,TV__RECORD
+EntertainTV Inception am 3. Mai um halb zehn auf VOX aufnehmen,TV__RECORD
+Serie auf Comedy Central in SD um halb sechs auf EntertainTV aufnehmen,TV__RECORD
+Zeichne 3Sat auf EntertainTV auf,TV__RECORD
+Nehme den Tatort am Sonntag auf MagentaTV auf,TV__RECORD
+EntertainTV nehme auf Fox Prison Break heute Abend auf,TV__RECORD
+Nimm den Tatort auf MagentaTV auf,TV__RECORD
+Mach eine Aufnahme von ARD übermorgen um 9:00 Uhr auf EntertainTV,TV__RECORD
+MagentaTV ProSieben Serie in SD montags um fünfzehn nach acht aufnehmen,TV__RECORD
+EntertainTV nehme auf Fox Prison Break auf,TV__RECORD
+Nehme Personal Shopper auf Kanal 6 als Einzelaufnahme morgen auf EntertainTV auf,TV__RECORD
+EntertainTV ARD in SD aufzeichnen,TV__RECORD
+Beginne Serienaufnahme auf MagentaTV,TV__RECORD
+Nimm Kanal 17 in HD auf EntertainTV auf,TV__RECORD
+Beginne Aufnahme auf MagentaTV in 4K,TV__RECORD
+MagentaTV nimm das Automagazin auf n-tv morgen um halb sieben auf,TV__RECORD
+Den VOX Film Inception auf EntertainTV aufnehmen,TV__RECORD
+Kanal 4 in HD auf MagentaTV aufzeichnen,TV__RECORD
+Nimm Kanal 17 auf EntertainTV auf,TV__RECORD
+MagentaTV Interstellar bitte um halb elf aufzeichnen,TV__RECORD
+Nehme den Tatort um 20:15 Uhr auf MagentaTV auf,TV__RECORD
+Entertain nimm VOX als Einzelaufnahme in HD um viertel vor zehn auf,TV__RECORD
+Nehme den Tatort um 20:15 Uhr am Sonntag auf MagentaTV auf,TV__RECORD
+Starte Serienaufnahme auf WDR auf EntertainTV,TV__RECORD
+EntertainTV DSDS auf RTL2 in HD am 1. Mai aufnehmen,TV__RECORD
+Zeichne VOX um siebzehn Uhr auf EntertainTV auf,TV__RECORD
+MagentaTV nimm bitte Buffy um 12 Uhr auf,TV__RECORD
+Aufzeichnung RTL MagentaTV,TV__RECORD
+Aufzeichnung von Forrest Gump auf MagentaTV machen,TV__RECORD
+MagentaTV nimm Heute Journal auf dem Kanal 45 auf,TV__RECORD
+MagentaTV nimm morgen das Automagazin auf n-tv auf,TV__RECORD
+MagentaTV nimm bitte Buffy morgen auf,TV__RECORD
+Kabel Eins ab 19:00 Uhr auf MagentaTV aufnehmen,TV__RECORD
+Nehme Interstellar auf RTL in SD auf EntertainTV auf,TV__RECORD
+Auf MagentaTV South Park auf Comedy Central morgen aufnehmen,TV__RECORD
+MagentaTV Aufnahme von Kanal 3 starten,TV__RECORD
+MagentaTV ZDF in UHD aufnehmen,TV__RECORD
+Zeichne 3Sat in SD auf EntertainTV auf,TV__RECORD
+Serie in UHD auf EntertainTV aufnehmen,TV__RECORD
+Mach eine Aufnahme auf MagentaTV Kanal 10 Breaking Bad,TV__RECORD
+EntertainTV Kanal 5 als Serienaufnahme in HD jeden Sonntag aufnehmen,TV__RECORD
+Nimm den Tatort als Einzelaufnahme auf ARD heute auf MagentaTV auf,TV__RECORD
+MagentaTV Serienaufnahme in HD auf Kanal 5 starten,TV__RECORD
+Nimm RTL als Einzelaufnahme in HD um acht Uhr auf MagentaTV auf,TV__RECORD
+Zeichne Kanal 18 auf MagentaTV auf,TV__RECORD
+MagentaTV nimm Comedy Central um sechs Uhr auf,TV__RECORD
+MagentaTV nimm die Tagesschau am Montag auf,TV__RECORD
+EntertainTV Serienaufnahme in HD auf Kanal 5 um viertel nach acht,TV__RECORD
+Entertain Serienaufnahme starten,TV__RECORD
+EntertainTV Aufnahme ZDF,TV__RECORD
+Auf EntertainTV Last Man Standing auf ProSieben aufzeichnen,TV__RECORD
+Entertain nimm VOX als Einzelaufnahme in HD morgen auf,TV__RECORD
+Nimm Herr der Ringe auf ProSieben auf MagentaTV auf,TV__RECORD
+Mach eine Aufnahme von Breaking Bad um acht auf EntertainTV,TV__RECORD
+MagentaTV nimm bitte DSDS heute auf Kanal 3 auf,TV__RECORD
+Nimm RTL um achtzehn Uhr auf MagentaTV auf,TV__RECORD
+Zeichne VOX morgen um siebzehn Uhr auf EntertainTV auf,TV__RECORD
+MagentaTV nimm Heute Journal auf Kanal 3 heute um sieben Uhr auf,TV__RECORD
+MagentaTV Kanal 15 heute um 15:00 Uhr aufnehmen,TV__RECORD
+Nimm Tatort als Serienaufnahme auf MagentaTV auf,TV__RECORD
+Nimm Buffy auf Kanal 30 auf MagentaTV auf,TV__RECORD
+EntertainTV Kanal 12 American Dad morgen aufnehmen,TV__RECORD
+Auf EntertainTV 3Sat am Montag aufnehmen,TV__RECORD
+EntertainTV Kanal 3 aufzeichnen,TV__RECORD
+Serie auf EntertainTV aufnehmen,TV__RECORD
+Beginne Aufzeichnung von ProSieben auf MagentaTV,TV__RECORD
+EntertainTV in SD aufzeichnen,TV__RECORD
+FOX ab viertel nach acht bitte aufzeichnen,TV__RECORD
+MagentaTV eine HD Aufnahme starten,TV__RECORD
+MagentaTV starte Serienaufnahme in SD,TV__RECORD
+EntertainTV ARD aufzeichnen,TV__RECORD
+MagentaTV auf ProSieben Serienaufnahme starten,TV__RECORD
+Starte RTL Aufzeichnung in SD im Entertain,TV__RECORD
+Auf EntertainTV Serienaufnahme in 4K auf WDR starten,TV__RECORD
+Kanal 4 jetzt auf MagentaTV aufzeichnen,TV__RECORD
+Nimm den Tatort in HD auf MagentaTV auf,TV__RECORD
+Auf EntertainTV American Dad morgen auf Comedy Central als Einzelaufnahme aufnehmen,TV__RECORD
+EntertainTV Kanal 3 in SD aufzeichnen,TV__RECORD
+Starte SD-Aufnahme von Kanal 7 auf EntertainTV,TV__RECORD
+EntertainTV VOX Sendung als Einzelaufnahme in UHD aufzeichnen,TV__RECORD
+EntertainTV Aufzeichnung Gute Zeiten Schlechte Zeiten,TV__RECORD
+Auf MagentaTV South Park auf Comedy Central morgen um sechs Uhr aufnehmen,TV__RECORD
+Starte Aufzeichnung von VOX auf MagentaTV,TV__RECORD
+Starte Einzelaufnahme auf NDR in SD bei EntertainTV,TV__RECORD
+Bitte TELE 5 am 5. Juni im Entertain aufnehmen,TV__RECORD
+Auf EntertainTV American Dad auf Comedy Central als Serie aufnehmen,TV__RECORD
+Nehme Personal Shopper auf EntertainTV auf,TV__RECORD
+Starte RTL Aufzeichnung im Entertain,TV__RECORD
+Starte ARD Aufnahme in HD auf MagentaTV,TV__RECORD
+Mach eine Aufnahme von ARD um 9:00 Uhr auf EntertainTV,TV__RECORD
+Mach eine Aufzeichnung von Inception auf EntertainTV,TV__RECORD
+MagentaTV starte Serienaufnahme in UHD auf SAT.1,TV__RECORD
+Zurückgehen auf Entertain,TV__RETURN
+Zurück bitte in MagentaTV,TV__RETURN
+Navigiere mal zurück auf MagentaTV,TV__RETURN
+Spring eins zurück in MagentaTV,TV__RETURN
+Spring bitte zurück auf MagentaTV,TV__RETURN
+Geh zurück auf MagentaTV,TV__RETURN
+Wieder zurück auf MagentaTV,TV__RETURN
+Eins zurückgehen in EntertainTV,TV__RETURN
+Navigiere zurück in MagentaTV,TV__RETURN
+Navigiere eins zurück auf EntertainTV,TV__RETURN
+EntertainTV eins zurück,TV__RETURN
+In MagentaTV zurück navigieren bitte,TV__RETURN
+MagentaTV zurück,TV__RETURN
+Auf EntertainTV zurückspringen,TV__RETURN
+Ich möchte auf MagentaTV Filme mit Tom Hanks sehen,TV__SEARCH
+Suche nach SAT.1 auf MagentaTV,TV__SEARCH
+Suche Star Wars mit Harrison Ford auf MagentaTV,TV__SEARCH
+Suche mir Amazon Prime Video in EntertainTV,TV__SEARCH
+Suche auf MagentaTV Filme mit Meryl Streep,TV__SEARCH
+Such mal Horrorfilme auf RTL bei MagentaTV,TV__SEARCH
+Suche auf MagentaTV nach Baywatch als Serie zum Kaufen,TV__SEARCH
+Ich möchte Tatort mit Christian Ulmen auf MagentaTV sehen,TV__SEARCH
+Suche mir mal Liebesfilme als Video on Demand in MagentaTV,TV__SEARCH
+Suche auf MagentaTV was von Meryl Streep aus den 80ern,TV__SEARCH
+Suche Friends mit Jennifer Aniston am Samstag Abend auf MagentaTV,TV__SEARCH
+Suche mir auf MagentaTV Thriller,TV__SEARCH
+Suche bei MagentaTV nach der ARD Mediathek,TV__SEARCH
+Auf MagentaTV möchte ich Horrorfilme mit Jamie Lee Curtis als Video on Demand sehen,TV__SEARCH
+Finde Jurassic Park von Steven Spielberg auf MagentaTV,TV__SEARCH
+Ich suche E.T. von Steven Spielberg in MagentaTV,TV__SEARCH
+Finde Krimis bei MagentaTV,TV__SEARCH
+Ich möchte Netflix bei MagentaTV sehen,TV__SEARCH
+Ich suche auf MagentaTV Serien aus den 90ern,TV__SEARCH
+Zeig mir welche Dramen bei MagentaTV nächste Woche auf ZDF laufen,TV__SEARCH
+Zeig mir auf MagentaTV Liebesfilme auf SAT.1,TV__SEARCH
+Auf MagentaTV möchte ich Serien aus den 90ern sehen,TV__SEARCH
+Ich suche Netflix auf MagentaTV,TV__SEARCH
+Suche Star Wars als Video on Demand auf MagentaTV,TV__SEARCH
+Suche auf MagentaTV Filme aus den 70er Jahren,TV__SEARCH
+Ich möchte auf MagentaTV Mulholland Drive von David Lynch sehen,TV__SEARCH
+Zeig mir bei MagentaTV Filme aus den 60er Jahren,TV__SEARCH
+Ich suche Genial Daneben auf EntertainTV,TV__SEARCH
+Auf MagentaTV möchte ich Rote Rosen sehen,TV__SEARCH
+Ich suche bei MagentaTV Dokus auf zdf neo,TV__SEARCH
+Suche Filme aus den 70ern auf MagentaTV,TV__SEARCH
+Such mal bei MagentaTV Komödien von Ben Stiller als Filme zum Ausleihen,TV__SEARCH
+Zeig mir Tatort auf MagentaTV als Video on Demand,TV__SEARCH
+Ich suche bei MagentaTV Fantasyfilme für Samstag Nachmittag,TV__SEARCH
+Ich suche Star Wars als Film zum Ausleihen auf MagentaTV,TV__SEARCH
+Ich möchte auf MagentaTV Tatort in der ARD Mediathek sehen,TV__SEARCH
+Suche Keanu Reeves aus den 90ern auf MagentaTV,TV__SEARCH
+Zeig mir auf MagentaTV Video on Demand mit Jennifer Aniston,TV__SEARCH
+Suche nach Dokus für Sonntag Mittag bei MagentaTV,TV__SEARCH
+Ich suche was auf RTL mit Jennifer Aniston in MagentaTV,TV__SEARCH
+Suche auf MagentaTV nach Friends,TV__SEARCH
+Suche auf MagentaTV Filme zum Kaufen mit Meryl Streep,TV__SEARCH
+Ich suche Krimis in MagentaTV,TV__SEARCH
+Suche Rote Rosen in der ZDF Mediathek auf EntertainTV,TV__SEARCH
+Zeig mir auf MagentaTV Eine schrecklich nette Familie aus den 90er Jahren,TV__SEARCH
+Finde Liebesfilme mit Jennifer Aniston auf MagentaTV,TV__SEARCH
+Ich suche bei MagentaTV Liebesfilme,TV__SEARCH
+Suche auf MagentaTV Thriller auf ARD,TV__SEARCH
+Zeig mir YouTube auf MagentaTV,TV__SEARCH
+Zeig mir was aus den 90ern bei EntertainTV,TV__SEARCH
+Such mir Tatort auf Entertain,TV__SEARCH
+Suche nach Actionfilmen bei MagentaTV,TV__SEARCH
+Suche auf MagentaTV Thriller mit Liam Neeson als Video on Demand,TV__SEARCH
+Such mal Actionfilme für Freitag Abend in MagentaTV,TV__SEARCH
+Such mal bei MagentaTV Actionfilme mit Bruce Willis,TV__SEARCH
+Suche auf MagentaTV Thriller in der ARD Mediathek,TV__SEARCH
+Auf MagentaTV möchte ich Traumschiff in der ZDF Mediathek sehen,TV__SEARCH
+Suche in MagentaTV nach Game of Thrones als Video on Demand,TV__SEARCH
+Suche auf MagentaTV nach Baywatch aus den 80ern,TV__SEARCH
+Ich möchte auf MagentaTV etwas mit Harrison Ford aus den 80ern sehen,TV__SEARCH
+Finde Serien aus den 80ern bei MagentaTV,TV__SEARCH
+Suche auf MagentaTV Traumschiff auf ZDF am Samstag Abend,TV__SEARCH
+Suche heute journal auf MagentaTV,TV__SEARCH
+Auf EntertainTV möchte ich Dokus sehen,TV__SEARCH
+Zeig mir Thriller mit Keanu Reeves auf MagentaTV,TV__SEARCH
+Suche auf MagentaTV Thriller als Video on Demand,TV__SEARCH
+Suche Filme auf ARD auf MagentaTV,TV__SEARCH
+Auf MagentaTV möchte ich Tatort mit Christian Ulmen am Samstag Abend gucken,TV__SEARCH
+Zeig mir Indiana Jones von Spielberg auf MagentaTV,TV__SEARCH
+Suche bei MagentaTV nach PRO7,TV__SEARCH
+Zeig mir auf MagentaTV was mit Nora Tschirner,TV__SEARCH
+Auf MagentaTV möchte ich Tatort auf WDR am Freitag Abend gucken,TV__SEARCH
+Suche mal auf MagentaTV nach Star Wars mit Harrison Ford,TV__SEARCH
+Zeige mir auf MagentaTV was von Jodie Foster auf RTL2,TV__SEARCH
+Suche was aus den 80ern mit Keanu Reeves bei MagentaTV,TV__SEARCH
+Zeige mir was von Bruce Willis aus den 90ern in MagentaTV,TV__SEARCH
+Ich möchte Game of Thrones auf MagentaTV sehen,TV__SEARCH
+Suche was mit Bruce Willis auf ARD bei MagentaTV,TV__SEARCH
+Suche Serie Friends mit Jennifer Aniston bei MagentaTV,TV__SEARCH
+Suche nach Filmen zum Ausleihen von Spielberg auf MagentaTV,TV__SEARCH
+Auf MagentaTV möchte ich Odysee im Weltraum von Kubrick sehen,TV__SEARCH
+Ich möchte Amazon Prime Video auf MagentaTV schauen,TV__SEARCH
+Suche RTL in MagentaTV,TV__SEARCH
+Suche auf MagentaTV was von Jodie Foster auf ZDF,TV__SEARCH
+Ich suche bei MagentaTV Actionfilme zum Ausleihen,TV__SEARCH
+Suche Netflix in MagentaTV,TV__SEARCH
+Suche auf MagentaTV nach Baywatch mit David Hasselhoff am Sonntag Nachmittag,TV__SEARCH
+Zeig mir Fantasyfilme auf MagentaTV,TV__SEARCH
+Ich suche auf EntertainTV die ARD Mediathek,TV__SEARCH
+Zeige mir Big Bang Theory mit Jim Parsons auf MagentaTV,TV__SEARCH
+Ich möchte auf MagentaTV Komödien sehen,TV__SEARCH
+Zeige mir auf MagentaTV was von Jennifer Aniston aus den 90ern,TV__SEARCH
+Suche in MagentaTV Sendungen aus den 80ern,TV__SEARCH
+Suche Bruce Willis auf MagentaTV,TV__SEARCH
+Auf MagentaTV möchte ich Netflix gucken,TV__SEARCH
+Suche Ally McBeal aus den 90ern auf MagentaTV,TV__SEARCH
+Suche mir Krimis auf MagentaTV,TV__SEARCH
+Auf MagentaTV möchte ich einen Film mit Jodie Foster sehen,TV__SEARCH
+Suche auf MagentaTV Thriller mit Liam Neeson,TV__SEARCH
+Finde Filme auf kabel eins bei MagentaTV,TV__SEARCH
+Suche die Sendung Tagesschau auf EntertainTV,TV__SEARCH
+Suche nach Video on Demand mit Jodie Foster auf MagentaTV,TV__SEARCH
+Suche auf MagentaTV nach Friends mit David Schwimmer,TV__SEARCH
+Auf MagentaTV möchte ich Baywatch aus den 80er Jahren sehen,TV__SEARCH
+Suche bei MagentaTV Filme mit Scarlett Johansson,TV__SEARCH
+Suche mal auf MagentaTV nach Beverly Hills aus den 90ern,TV__SEARCH
+Zeig mir auf MagentaTV alles mit Jennifer Aniston,TV__SEARCH
+Möchte auf MagentaTV Netflix schauen,TV__SEARCH
+Suche mal auf MagentaTV nach Game of Thrones als Serie zum Leihen,TV__SEARCH
+Suche mir Tatort mit Nora Tschirner auf MagentaTV,TV__SEARCH
+Suche auf MagentaTV nach Genial Daneben,TV__SEARCH
+Zeige mir auf MagentaTV Krimis als Video on Demand,TV__SEARCH
+Suche Rote Rosen auf ZDF am Freitag Nachmittag auf MagentaTV,TV__SEARCH
+Ich möchte auf MagentaTV Filme aus den 2000ern sehen,TV__SEARCH
+Ich suche Dallas aus den 70ern auf MagentaTV,TV__SEARCH
+Suche die Sendung Tatort mit Jan Josef Liefers bei MagentaTV,TV__SEARCH
+Finde in MagentaTV Magnolia von Paul Thomas Anderson,TV__SEARCH
+Mit dem Aufnehmen von Entertain aufhören,TV__STOP_RECORDING
+Stopp Aufnahme von Kanal 3 bei MagentaTV,TV__STOP_RECORDING
+Die Aufnahme von Kanal 12 auf EntertainTV abbrechen,TV__STOP_RECORDING
+Aufnehmen von EntertainTV beenden,TV__STOP_RECORDING
+MagentaTV Aufnahme VOX stoppen,TV__STOP_RECORDING
+Aufnahme von RTL 2 auf MagentaTV abbrechen,TV__STOP_RECORDING
+Die Aufnahme von Entertain abbrechen,TV__STOP_RECORDING
+Stopp die MagentaTV Aufnahme von Kanal 45,TV__STOP_RECORDING
+MDR Aufnahme beenden auf MagentaTV,TV__STOP_RECORDING
+Stoppe MagentaTV Aufnahme von ARTE,TV__STOP_RECORDING
+Aufnahme auf EntertainTV beenden,TV__STOP_RECORDING
+Aufnahme von Kanal 7 auf Entertain beenden,TV__STOP_RECORDING
+Stoppe die Aufnahme von Entertain auf Kanal 5,TV__STOP_RECORDING
+MagentaTV Ende der Aufnahme,TV__STOP_RECORDING
+Stopp das Aufnehmen von MagentaTV,TV__STOP_RECORDING
+Stoppe die Aufnahme von zdf auf MagentaTV,TV__STOP_RECORDING
+MagentaTV Kanal 4 Aufnahme beenden,TV__STOP_RECORDING
+Stopp die EntertainTV Aufnahme von sixx,TV__STOP_RECORDING
+MagentaTV Aufnahme Stopp,TV__STOP_RECORDING
+Aktuelle Aufnahme von MagentaTV stoppen,TV__STOP_RECORDING
+Aufnahme von Kanal 2 auf MagentaTV abbrechen,TV__STOP_RECORDING
+Aufnahme von ARTE bei MagentaTV abbrechen,TV__STOP_RECORDING
+Stopp die Aufnahme auf MagentaTV,TV__STOP_RECORDING
+Die Aufnahme im Ersten auf MagentaTV beenden,TV__STOP_RECORDING
+Aufnahme auf EntertainTV von Kanal 23 beenden,TV__STOP_RECORDING
+Stoppe Entertain Aufnahme,TV__STOP_RECORDING
+Stoppe MagentaTV Aufnahme von Kanal 7,TV__STOP_RECORDING
+MagentaTV Aufnahme von RTL stoppen,TV__STOP_RECORDING
+Aufnahme auf Entertain von kika abbrechen,TV__STOP_RECORDING
+MagentaTV ZDF Aufnahme beenden,TV__STOP_RECORDING
+Stoppe die Aufnahme von MagentaTV,TV__STOP_RECORDING
+Aufnahme von MagentaTV stoppen,TV__STOP_RECORDING
+Stopp Aufnahme von kabel eins bei MagentaTV,TV__STOP_RECORDING
+MagentaTV Aufnahme stoppen,TV__STOP_RECORDING
+Stopp die MagentaTV Aufnahme,TV__STOP_RECORDING
+MagentaTV Aufnahme von Kanal 3 stoppen,TV__STOP_RECORDING
+Aufnahme von Kanal 4 bei MagentaTV beenden,TV__STOP_RECORDING
+Aufnahme von ProSieben auf Entertain beenden,TV__STOP_RECORDING
+Kanal 12 Aufnahme beenden auf MagentaTV,TV__STOP_RECORDING
+Beende MagentaTV Aufnahme,TV__STOP_RECORDING
+MagentaTV umschalten auf VOX,TV__SWITCH_CHANNEL
+MagentaTV SAT.1,TV__SWITCH_CHANNEL
+MagentaTV auf 3Sat,TV__SWITCH_CHANNEL
+Schalte EntertainTV auf Tele 5,TV__SWITCH_CHANNEL
+Schalte MagentaTV auf Kanal 20 um,TV__SWITCH_CHANNEL
+Schalte MagentaTV zu RTL,TV__SWITCH_CHANNEL
+auf MagentaTV zu Sender 1 umschalten,TV__SWITCH_CHANNEL
+Schalte MagentaTV um auf ProSieben,TV__SWITCH_CHANNEL
+MagentaTV schalte auf Kanal 7,TV__SWITCH_CHANNEL
+MagentaTV schalte BR ein,TV__SWITCH_CHANNEL
+EntertainTV schalte um auf kabel eins,TV__SWITCH_CHANNEL
+MagentaTV wechsle zur ARD,TV__SWITCH_CHANNEL
+zu Kanal 2 bei EntertainTV,TV__SWITCH_CHANNEL
+MagentaTV auf ARTE umschalten,TV__SWITCH_CHANNEL
+EntertainTV schalte um auf Sender 17,TV__SWITCH_CHANNEL
+Schalte MagentaTV auf Kanal 20,TV__SWITCH_CHANNEL
+EntertainTV bitte auf MDR,TV__SWITCH_CHANNEL
+Auf MagentaTV auf Kanal 23,TV__SWITCH_CHANNEL
+MagentaTV schalte um auf Kanal 1,TV__SWITCH_CHANNEL
+Schalte MagentaTV auf ARD um,TV__SWITCH_CHANNEL
+MagentaTV schalte auf Kanal 3,TV__SWITCH_CHANNEL
+MagentaTV auf Kanal 13,TV__SWITCH_CHANNEL
+wechsle auf MagentaTV zu DMAX,TV__SWITCH_CHANNEL
+bei MagentaTV zu kabel eins,TV__SWITCH_CHANNEL
+MagentaTV ZDF bitte,TV__SWITCH_CHANNEL
+MagentaTV Kanal 4,TV__SWITCH_CHANNEL
+MagentaTV auf VOX schalten,TV__SWITCH_CHANNEL
+EntertainTV um 3 leiser machen,TV__VOLUME
+Lautstärke auf MagentaTV hochregeln,TV__VOLUME
+erhöhe die Fernsehlautstärke auf MagentaTV,TV__VOLUME
+EntertainTV Lautstärke 10 nach oben,TV__VOLUME
+auf MagentaTV den Ton leiser stellen,TV__VOLUME
+mache MagentaTV leiser,TV__VOLUME
+schalte EntertainTV leiser,TV__VOLUME
+die Lautstärke leise bei MagentaTV,TV__VOLUME
+stell MagentaTV auf Lautstärke 7,TV__VOLUME
+mach EntertainTV leiser bitte,TV__VOLUME
+MagentaTV um 1 Stufe lauter machen,TV__VOLUME
+mach den Ton lauter bei MagentaTV,TV__VOLUME
+MagentaTV lauter machen,TV__VOLUME
+MagentaTV Lautstärke auf 10 erhöhen,TV__VOLUME
+MagentaTV um 15 Stufen aufdrehen,TV__VOLUME
+mach MagentaTV auf Lautstärke Stufe 23,TV__VOLUME
+in MagentaTV Lautstärke erhöhen,TV__VOLUME
+EntertainTV Ton auf Stufe 9,TV__VOLUME
+MagentaTV leiser,TV__VOLUME
+mach den Ton leiser bei MagentaTV,TV__VOLUME
+stelle EntertainTV auf Lautstärke 5,TV__VOLUME
+schalte MagentaTV auf leiser,TV__VOLUME
+Lautstärke 2 auf EntertainTV,TV__VOLUME
+schalte den MagentaTV Ton auf 14,TV__VOLUME
+weniger Lautstärke auf MagentaTV,TV__VOLUME
+schalt EntertainTV auf laut,TV__VOLUME
+MagentaTV um 8 leiser machen,TV__VOLUME
+EntertainTV Ton 6 Stufen lauter,TV__VOLUME
+schalte MagentaTV auf lauter,TV__VOLUME
+erhöhe bei MagentaTV die Lautstärke,TV__VOLUME
+MagentaTV lauter stellen,TV__VOLUME
+EntertainTV Lautstärke erhöhen,TV__VOLUME
+Stärke 16 auf MagentaTV,TV__VOLUME
+MagentaTV 4 Schritte leiser machen,TV__VOLUME
+mach bitte den Entertain lauter,TV__VOLUME
+mach MagentaTV lauter,TV__VOLUME
+mehr Lautstärke auf MagentaTV,TV__VOLUME
+MagentaTV auf Stärke 15,TV__VOLUME
+mach mal lauter im Entertain,TV__VOLUME
+auf MagentaTV leiser,TV__VOLUME
+mach bitte den Entertain leiser,TV__VOLUME
+MagentaTV 5 Stufen lauter,TV__VOLUME
+4 Schritte lauter machen auf MagentaTV,TV__VOLUME
+MagentaTV leiser machen,TV__VOLUME
+mache MagentaTV Lautstärke leiser,TV__VOLUME
+EntertainTV etwas leiser,TV__VOLUME
+5 Stufen leiser auf MagentaTV,TV__VOLUME
+MagentaTV bitte leiser,TV__VOLUME
+schalte MagentaTV auf Lautstärke 8,TV__VOLUME
+MagentaTV bitte lauter,TV__VOLUME
+EntertainTV um 3 lauter machen,TV__VOLUME
+mach den Entertain auf Lautstärke 30,TV__VOLUME
+Lautstärke auf 3 MagentaTV,TV__VOLUME
+erhöhe die Lautstärke bei EntertainTV,TV__VOLUME
+auf MagentaTV lauter,TV__VOLUME
+EntertainTV leiser stellen,TV__VOLUME
+stelle EntertainTV lauter,TV__VOLUME
+den EntertainTV Ton auf 14 schalten,TV__VOLUME
+EntertainTV leise,TV__VOLUME
+MagentaTV Ton 20,TV__VOLUME
+MagentaTV leiser schalten,TV__VOLUME
+auf Lautstärke 6 EntertainTV,TV__VOLUME
+stelle MagentaTV leiser,TV__VOLUME
+6 Stufen lauter auf MagentaTV,TV__VOLUME
+EntertainTV Lautstärke 10 nach unten,TV__VOLUME
+Ton um 2 nach oben auf MagentaTV,TV__VOLUME
+mach mal leiser in MagentaTV,TV__VOLUME
+MagentaTV laut,TV__VOLUME
+MagentaTV laut schalten,TV__VOLUME
+schalte EntertainTV lauter,TV__VOLUME
+EntertainTV Lautstärke auf 10,TV__VOLUME
+Ton auf Stärke 18 auf EntertainTV,TV__VOLUME
+weniger Lautstärke bei MagentaTV,TV__VOLUME
+Entertain Ton um 2 nach unten,TV__VOLUME
+EntertainTV auf Lautstärke 20 erhöhen,TV__VOLUME
+EntertainTV Ton 6 Stufen leiser,TV__VOLUME
+mach 15 Stufen leiser auf MagentaTV,TV__VOLUME
+MagentaTV Lautstärke 20,TV__VOLUME
+MagentaTV auf Lautstärke 8 stellen,TV__VOLUME
+MagentaTV lauter,TV__VOLUME
+MagentaTV auf Lautstärke 30,TV__VOLUME
+MagentaTV etwas lauter,TV__VOLUME
+leiser EntertainTV,TV__VOLUME
+MagentaTV auf Lautstärke 9 schalten,TV__VOLUME
+Suche auf MagentaTV nach Thrillern für Samstag Abend,TV__SEARCH
